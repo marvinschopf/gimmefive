@@ -1,9 +1,11 @@
-import webpack from "webpack";
-import path from "path";
+const path = require("path");
+const webpack = require("webpack");
+
+const basePath = path.join(__dirname, 'src')
 
 module.exports = {
-	entry: "./index.js",
-	context: path.resolve(__dirname + "src"),
+	entry: "./index.jsx",
+	context: basePath,
 	output: {
 		path: path.resolve(__dirname, "dist"),
 		filename: "highfive.min.js",
@@ -14,18 +16,10 @@ module.exports = {
 	module: {
 		rules: [
 			{
-				test: /\.(js|jsx)$/,
-				exclude: /node_modules/,
-				include: resolve(__dirname, "src"),
-				use: [
-					{
-						loader: "babel-loader",
-						options: {
-							babelrc: true,
-						},
-					},
-				],
-			},
+                test: /\.jsx?$/,
+                loader: 'babel-loader',
+                include: [basePath],
+              }
 		],
 	},
 	resolve: {
