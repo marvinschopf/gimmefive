@@ -1,0 +1,13 @@
+{
+  "name": "highfivejs",
+  "version": "1.0.0",
+  "main": "dist/highfive.min.js",
+  "repository": "https://github.com/marvinschopf/highfivejs",
+  "author": {
+    "name": "Marvin Schopf",
+    "email": "marvin@schopf.biz",
+    "url": "https://www.marvinschopf.ccom"
+  },
+  "license": "Apache-2.0",
+  "private": false
+}
