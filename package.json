@@ -19,7 +19,7 @@
 	"private": false,
 	"dependencies": {
 		"preact": "^10.5.12",
-		"react-highfive": "^1.5.4"
+		"react-highfive": "^1.7.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.12.13",
