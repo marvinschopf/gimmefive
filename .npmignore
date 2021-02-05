@@ -1,3 +1,4 @@
 src/
 LICENSE_HEADER
 webpack.config.js
+.babelrc
