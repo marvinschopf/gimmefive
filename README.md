@@ -1,18 +1,22 @@
 # GimmeFive
+
 **GimmeFive** adds a High Five button (in the form of a "snack bar") to your website, which is synchronised, i.e. updated simultaneously for all users on your website!
 
 ## Installation
+
 Direct integration via a CDN such as [jsDelivr](https://www.jsdelivr.com) is recommended.
 
 For a simple integration _without synchronization_ you just have to add the following tags to the end of the `<body>` HTML tag.
+
 ```html
 <script src="https://cdn.jsdelivr.net/npm/gimmefive@1/dist/gimmefive.min.js"></script>
 <script>
-    GimmeFive.init();
+	GimmeFive.init();
 </script>
 ```
 
 ## License
+
 Copyright (C) 2021 Marvin Schopf  
 
 Licensed under the Apache License, Version 2.0 (the "License");
