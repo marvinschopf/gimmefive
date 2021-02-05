@@ -1,7 +1,7 @@
 {
 	"name": "gimmefive",
 	"version": "1.0.0",
-	"main": "dist/highfive.min.js",
+	"main": "dist/gimmefive.min.js",
 	"repository": "https://github.com/marvinschopf/gimmefive",
 	"author": {
 		"name": "Marvin Schopf",

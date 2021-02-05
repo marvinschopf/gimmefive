@@ -37,8 +37,8 @@ module.exports = {
 	},
 	output: {
 		path: path.resolve(__dirname, "dist"),
-		filename: "highfive.min.js",
-		library: "Highfive",
+		filename: "gimmefive.min.js",
+		library: "GimmeFive",
 		libraryTarget: "umd",
 		umdNamedDefine: true,
 	},
