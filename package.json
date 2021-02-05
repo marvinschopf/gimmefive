@@ -8,6 +8,13 @@
 		"email": "marvin@schopf.biz",
 		"url": "https://www.marvinschopf.com"
 	},
+	"keywords": [
+		"highfive",
+		"highfivejs",
+		"react-highfive",
+		"react highfive",
+		"high five counter"
+	],
 	"license": "Apache-2.0",
 	"private": false,
 	"dependencies": {
