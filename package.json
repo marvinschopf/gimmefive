@@ -1,5 +1,5 @@
 {
-	"name": "high-five",
+	"name": "gimmefive",
 	"version": "1.0.0",
 	"main": "dist/highfive.min.js",
 	"repository": "https://github.com/marvinschopf/highfivejs",
