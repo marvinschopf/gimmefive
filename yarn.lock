@@ -1957,9 +1957,9 @@ call-bind@^1.0.0:
     get-intrinsic "^1.0.2"
 
 caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001181:
-  version "1.0.30001183"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001183.tgz#7a57ba9d6584119bb5f2bc76d3cc47ba9356b3e2"
-  integrity sha512-7JkwTEE1hlRKETbCFd8HDZeLiQIUcl8rC6JgNjvHCNaxOeNmQ9V4LvQXRUsKIV2CC73qKxljwVhToaA3kLRqTw==
+  version "1.0.30001185"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001185.tgz#3482a407d261da04393e2f0d61eefbc53be43b95"
+  integrity sha512-Fpi4kVNtNvJ15H0F6vwmXtb3tukv3Zg3qhKkOGUq7KJ1J6b9kf4dnNgtEAFXhRsJo0gNj9W60+wBvn0JcTvdTg==
 
 chalk@^1.1.3:
   version "1.1.3"
@@ -2896,9 +2896,9 @@ react-countup@^4.3.3:
     warning "^4.0.3"
 
 react-highfive@^1.5.4:
-  version "1.5.6"
-  resolved "https://registry.yarnpkg.com/react-highfive/-/react-highfive-1.5.6.tgz#7464f10e8b8cb9c464a5a522745dd10bfc9de294"
-  integrity sha512-wqCfbCmJl6EiOqG+KHOw5UOb5pPNUB5ZdooV8Tl0dk9Wurwqc4aR24x6CVbrl51uOcBl7JNn9sJ2SmmMHcchWg==
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/react-highfive/-/react-highfive-1.6.0.tgz#cda0fd12aec95071bc0b4e533c2a1c7520a94b18"
+  integrity sha512-3nwvsRtjUG+YJC2yu+NWB4EVAkZQ/iryhJHIY4JOjvbIXQqn2N1ctf8VPdHUno+Cu1QIm+JDBXDB+G3UTjbI4g==
   dependencies:
     "@material-ui/core" "^4.11.3"
     "@material-ui/icons" "^4.11.2"
@@ -3054,9 +3054,9 @@ resolve@^1.9.0:
     path-parse "^1.0.6"
 
 rewards-lite@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/rewards-lite/-/rewards-lite-1.0.2.tgz#4887bf11b26efc59d24d0e75ac6139d919044898"
-  integrity sha512-Hu6YQ4eRf9Ov+y9h1E/9LoYI1y/QrVBA68qufoetF7jZ4NLflGwCvmtiO3wA1vO70QMeW/hmaztHqVGOVQVnCQ==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/rewards-lite/-/rewards-lite-1.0.4.tgz#e98f9173cdf7d51c87d51f72d481ba203f8ce295"
+  integrity sha512-EvRWWur+nF60Soi4yhp1DewbuKXYjHggtnwgHrBSp4ZjNhw2jaclXE2gb4Cxhw397lZMiBxotFmVowMaoVhRZQ==
   dependencies:
     react-pose "^4.0.8"
 
