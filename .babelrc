@@ -1,6 +1,6 @@
 {
 	"sourceMaps": true,
-	"presets": ["env", "stage-0"],
+	"presets": ["@babel/preset-env"],
 	"plugins": [
         ["@babel/plugin-proposal-decorators", { "legacy": true }],
 		//["transform-decorators-legacy"],
