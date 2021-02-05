@@ -38,6 +38,7 @@
 		"webpack-cli": "^4.5.0"
 	},
 	"scripts": {
-		"build": "webpack build"
+		"build": "webpack build",
+		"clean": "rm -rf dist/"
 	}
 }
