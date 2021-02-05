@@ -39,6 +39,7 @@
 	},
 	"scripts": {
 		"build": "webpack build",
-		"clean": "rm -rf dist/"
+		"clean": "rm -rf dist/",
+		"prebuild": "yarn run clean"
 	}
 }
