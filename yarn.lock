@@ -3054,9 +3054,9 @@ resolve@^1.9.0:
     path-parse "^1.0.6"
 
 rewards-lite@^1.0.2:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/rewards-lite/-/rewards-lite-1.0.4.tgz#e98f9173cdf7d51c87d51f72d481ba203f8ce295"
-  integrity sha512-EvRWWur+nF60Soi4yhp1DewbuKXYjHggtnwgHrBSp4ZjNhw2jaclXE2gb4Cxhw397lZMiBxotFmVowMaoVhRZQ==
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/rewards-lite/-/rewards-lite-1.0.5.tgz#b393f6b74c7fa64b23d59c88f97b5d5d826e354c"
+  integrity sha512-S1tVZyoIymbq/O7MNU8cTqB34AWOld8r0CgC9A9Zw/6AZcn2WvKGnsf8j9jq1bQnhMuDONrdSPE0nVuKJ+8/cw==
   dependencies:
     react-pose "^4.0.8"
 
