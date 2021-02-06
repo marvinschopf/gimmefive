@@ -2896,9 +2896,9 @@ react-countup@^4.3.3:
     warning "^4.0.3"
 
 react-highfive@^1.7.0:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/react-highfive/-/react-highfive-1.7.1.tgz#b7e80a856f06e88d6d785a6555798d59db77c82c"
-  integrity sha512-Neb2/AKBMzl72DsX2ZIkgcHfx9OntosoTqU+KHVMkvT/5QheahDlSSDSnQ2pZhoxTJa13LvHqGEsxGow5aR7yQ==
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/react-highfive/-/react-highfive-1.7.2.tgz#7d38170511252d0dbe231fb5d05553de2a70a310"
+  integrity sha512-2sb9fM09HbDT7spifQsXbxD4IxbD+tXn5rnlw9O/9X8fI4LPv2tLsnF7hdABzEf+iEwkYkzrAq/b6XgpKRq4Qg==
   dependencies:
     "@material-ui/core" "^4.11.3"
     "@material-ui/icons" "^4.11.2"
