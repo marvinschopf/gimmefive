@@ -1,6 +1,6 @@
 {
 	"name": "gimmefive",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"main": "dist/gimmefive.min.js",
 	"repository": "https://github.com/marvinschopf/gimmefive",
 	"author": {
